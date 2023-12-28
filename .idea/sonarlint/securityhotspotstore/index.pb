@@ -1,6 +1,4 @@
 
-S
-#chapter1_AWS_시작하기/정리.md,3/6/36beac23fa63d6c3ae072380318b72e9b40bca36
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
@@ -12,8 +10,6 @@ S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
 w
 G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e/d/ed67eb178d523a4b3f117dcbe0eda5196367ceec
-�
-Q.idea/sonarlint/securityhotspotstore/3/6/36beac23fa63d6c3ae072380318b72e9b40bca36,3/5/350fad4ff7fa6011161014823fa000eb4af5eff3
 S
 #chapter2_AWS_시작하기/정리.md,7/6/76f57474438333f18e1d70084f54d685e343fe8b
 ]
@@ -28,5 +24,13 @@ G.idea/sonarlint/issuestore/f/3/f3e4881e09c8a817d7b52a2c26b633fcdba8ab96,4/d/4d
 Q.idea/sonarlint/securityhotspotstore/e/1/e121fc6a509148f6571a5402d3de1c09d48fa525,d/a/da7543cdb45f1f6352cbfe9416d7bb60e114dff0
 �
 Q.idea/sonarlint/securityhotspotstore/f/3/f3e4881e09c8a817d7b52a2c26b633fcdba8ab96,b/b/bbf5cc43409dbb05a5c745b8bcf62a6a97d16272
-w
-G.idea/sonarlint/issuestore/3/6/36beac23fa63d6c3ae072380318b72e9b40bca36,0/4/044492e5bc908d9847c44d3253403372bb94d628
+N
+chapter5_점프_서버/note.md,8/4/841a0b4be03c5407ffc311471780f16f92c3ee39
+X
+(chapter6_웹_서버_준비하기/note.md,9/8/98cda975cb411cf9bb02e71e2f552e1076f89597
+^
+.chapter7_로드_벨런서_준비하기/note.md,0/4/04ff79a07b3794e5f4eae34ad18fabb427a1cb7a
+`
+0chapter4_가상_네트워크_만들기/정리.md,3/4/34314848759386f4430db21e9e6262cbb1a55911
+[
++chapter5_점프_서버_준비하기/note.md,7/b/7b0496303cf06a4f58549c8214202c4eec4f5cd8
