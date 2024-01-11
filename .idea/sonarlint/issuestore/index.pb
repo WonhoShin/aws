@@ -2,37 +2,27 @@
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-`
-0chapter3_안전한_조작_준비하기/정리.md,f/3/f3e4881e09c8a817d7b52a2c26b633fcdba8ab96
-`
-0Chapter4_가상_네트워크_만들기/정리.md,e/1/e121fc6a509148f6571a5402d3de1c09d48fa525
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
 w
 G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e/d/ed67eb178d523a4b3f117dcbe0eda5196367ceec
-S
-#chapter2_AWS_시작하기/정리.md,7/6/76f57474438333f18e1d70084f54d685e343fe8b
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
 �
 Q.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,3/0/30205a209c6ce77c4cfc19a09e6f57c588b7fb88
-w
-G.idea/sonarlint/issuestore/e/1/e121fc6a509148f6571a5402d3de1c09d48fa525,4/c/4c9f0bd6e4696936999bab79112823beceff2761
-w
-G.idea/sonarlint/issuestore/f/3/f3e4881e09c8a817d7b52a2c26b633fcdba8ab96,4/d/4d18b29dd6e9b76154020df08e20adc58e878411
-�
-Q.idea/sonarlint/securityhotspotstore/e/1/e121fc6a509148f6571a5402d3de1c09d48fa525,d/a/da7543cdb45f1f6352cbfe9416d7bb60e114dff0
-�
-Q.idea/sonarlint/securityhotspotstore/f/3/f3e4881e09c8a817d7b52a2c26b633fcdba8ab96,b/b/bbf5cc43409dbb05a5c745b8bcf62a6a97d16272
-X
-(chapter6_웹_서버_준비하기/note.md,9/8/98cda975cb411cf9bb02e71e2f552e1076f89597
-^
-.chapter7_로드_벨런서_준비하기/note.md,0/4/04ff79a07b3794e5f4eae34ad18fabb427a1cb7a
-`
-0chapter4_가상_네트워크_만들기/정리.md,3/4/34314848759386f4430db21e9e6262cbb1a55911
-[
-+chapter5_점프_서버_준비하기/note.md,7/b/7b0496303cf06a4f58549c8214202c4eec4f5cd8
-`
-0chapter8_데이터베이스_준비하기/note.md,c/a/cab7e57557bea2835374c4e9f17745e836e3f517
-e
-5chapter9_이미지_저장_장소_준비하기/note.md,7/c/7cda820c14c501a38ab5c859746665b70f91d97d
+d
+4aws/chapter4_가상_네트워크_만들기/정리.md,1/0/1095863dd1427b100db3ca543bfe23676180f273
+\
+,aws/chapter6_웹_서버_준비하기/note.md,a/1/a198a32fb2cb7c078501a8be3e4fba6e28643fa7
+_
+/aws/chapter5_점프_서버_준비하기/note.md,9/2/92f11c4e06bd8659c88c09b5a5b4abef7ceeea0d
+W
+'aws/chapter2_AWS_시작하기/정리.md,c/7/c7f58990e5917600f505e6481e33a3260e5a2405
+d
+4aws/chapter8_데이터베이스_준비하기/note.md,8/2/8297649801d708381f54a67f56f19523ad2392b4
+b
+2aws/chapter7_로드_벨런서_준비하기/note.md,1/8/18a246516504a1a73e8dc70b3552399615802f4a
+d
+4aws/chapter3_안전한_조작_준비하기/정리.md,f/c/fc5bc6ad8e15e44d2d69b1009e8978d4c33b1bb0
+i
+9aws/chapter9_이미지_저장_장소_준비하기/note.md,8/f/8f9495ee1c31b79608e6dcb9d80127d01bf1be34
