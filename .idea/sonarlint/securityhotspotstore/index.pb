@@ -28,3 +28,5 @@ i
 9aws/chapter9_이미지_저장_장소_준비하기/note.md,8/f/8f9495ee1c31b79608e6dcb9d80127d01bf1be34
 `
 0aws/chapter11_메일_서버_준비하기/note.md,c/6/c6f75aff17a04a53e6867b4a79b9a31633249f9f
+`
+0aws/chapter12_캐시_서버_준비하기/note.md,9/4/946d711b9b239c5d84ca501612a2d4abdf375f7a
