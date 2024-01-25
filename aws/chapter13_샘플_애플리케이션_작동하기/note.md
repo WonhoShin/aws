@@ -370,5 +370,20 @@ end
 
 앞서 생성한 도메인 이름 (AWS_INTRO_SAMPLE_SMTP_DOMAIN)에 설정한 값으로 접근해본다.
 
+![img_10.png](img_10.png)
+![img_11.png](img_11.png)
+
+---
+
+## 사용자 등록
+sign up now 버튼을 누르고 create my aacount 버튼을 클릭한다.
+
+![img_12.png](img_12.png)
+
+놀랍게도 책에뜬 에러가 떴습니다.
+
+![img_13.png](img_13.png)
+![img_14.png](img_14.png)
+
 
 
