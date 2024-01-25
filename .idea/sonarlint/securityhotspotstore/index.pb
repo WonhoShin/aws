@@ -30,3 +30,7 @@ i
 0aws/chapter11_메일_서버_준비하기/note.md,c/6/c6f75aff17a04a53e6867b4a79b9a31633249f9f
 `
 0aws/chapter12_캐시_서버_준비하기/note.md,9/4/946d711b9b239c5d84ca501612a2d4abdf375f7a
+l
+<aws/chapter13_샘플_애플리케이션_작동하기/note.md,4/9/49a62609030d4d9ec7cf1b49a80e9f7d079c6056
+m
+=aws/chapter10_커스텀_도메인과_DNS_준비하기/note.md,2/a/2afb4e55e77d3e917a9907e881968aea45145c98
