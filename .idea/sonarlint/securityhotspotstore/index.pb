@@ -34,3 +34,7 @@ l
 <aws/chapter13_샘플_애플리케이션_작동하기/note.md,4/9/49a62609030d4d9ec7cf1b49a80e9f7d079c6056
 m
 =aws/chapter10_커스텀_도메인과_DNS_준비하기/note.md,2/a/2afb4e55e77d3e917a9907e881968aea45145c98
+b
+2aws/chapter14_서비스_모니터링하기/note.md,a/7/a774e41523fdb8828f789172c456471cc6172914
+Y
+)aws/chapter15_요금_확인하기/note.md,0/1/01fec2060968a35cdb020dbec1a760f1becb5590

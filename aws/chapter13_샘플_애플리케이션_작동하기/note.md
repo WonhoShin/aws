@@ -384,6 +384,52 @@ sign up now 버튼을 누르고 create my aacount 버튼을 클릭한다.
 
 ![img_13.png](img_13.png)
 ![img_14.png](img_14.png)
+![img_15.png](img_15.png)
 
+---
+
+## 단문 및 이미지 게시
+
+계속해서 단문과 이미지 게시를 시험해본다.
+
+홈을 누르면 게시 화면이 나타난다 내용을 입력하고 POST를 누른다.
+
+![img_16.png](img_16.png)
+
+---
+
+## 게시 데이터 확인
+
+마지막으로 RDS와 S3에 데이터가 등록된지확인한다
+
+### RDS
+
+아래 명령어를 통해 확인한다.
+
+우선 웹 서버에 연결한다.
+
+~~~
+PS C:\Users\create>ssh web01
+~~~
+
+이어서 다음 명령어를 실행한다. 등록 게시물의 내용이 표시된다.
+
+~~~
+mysql -u sample_app -p -h db.home sampe_app -e 'select * from micropost\G'
+~~~
+
+실행결과 내용 확인
+
+~~~
+sudo su - deploy
+mysql -u sample_app -p -h db.home sample_app -e 'select * from micropost\G'
+~~~
+![img_17.png](img_17.png)
+
+---
+
+### S3
+
+S3 확인은 데시보드에서 확인할 수 있다.
 
 
